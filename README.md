@@ -16,5 +16,4 @@ Proyecto desarrollado en Java que simula una carrera entre 5 corredores utilizan
 ## 🎯 Objetivo
 Aplicar el uso de programación concurrente mediante hilos para simular procesos en ejecución simultánea.
 
-## 📸 Evidencia
-(agrega aquí tus capturas si quieres)
+
